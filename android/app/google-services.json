@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921177826285",
+    "project_id": "chatouille-f8792",
+    "storage_bucket": "chatouille-f8792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921177826285:android:93d5c0d268e3c17420bde4",
+        "android_client_info": {
+          "package_name": "com.example.chatouille"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921177826285-29be0hsfvi0ugpcj4esodqu00k3stgj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSZdvmpJ7XSnqQCy362wMkoB7tnc4yjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921177826285-29be0hsfvi0ugpcj4esodqu00k3stgj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
